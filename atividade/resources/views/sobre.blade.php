@@ -10,6 +10,7 @@
     </h1>
     <p>
     Nosso site tem como objetivo ajudar você a cadastrar seu livro e autor favoritos e ter um controle das suas leituras!!
+    Desenvolvido por: Emilly Diana, Emilly Raiane e Maria Clara Lacerda
     </p>
 @endsection
 @section('rodape')
